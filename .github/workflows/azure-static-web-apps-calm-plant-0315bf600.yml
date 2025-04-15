@@ -46,4 +46,4 @@ jobs:
           action: "upload"              # ✅ Correct usage
           app_location: "/"
           api_location: ""
-          output_location: "dist"
+          output_location: "dist" 
